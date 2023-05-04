@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-with-css-and-flexbox-p8FYJkUO4a)
-- Live Site URL: [Add live site URL here](https://jarom27.github.io/qr-code-component-main/)
+- Solution URL: [My Solution in FrontEnd Mentor ](https://www.frontendmentor.io/solutions/responsive-landing-with-css-and-flexbox-p8FYJkUO4a)
+- Live Site URL: [My site](https://jarom27.github.io/qr-code-component-main/)
 
 ## My process
 
